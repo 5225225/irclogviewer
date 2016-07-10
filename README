@@ -1,0 +1,6 @@
+irclogviewer
+============
+
+Format chatlogs with username highlighting and column alignment and text
+wrapping. Currently only outputs to ANSI escapes, but could expand to HTML
+output. (Possibly create a pygments module to allow for many output formats)
